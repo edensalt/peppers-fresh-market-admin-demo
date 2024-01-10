@@ -6,7 +6,21 @@ They now have a customer-facing website and internal admin portal, connected thr
 
 By using a thoughtful collection of AWS products and a NoSQL database, Peppers pays less than 50¢ per month for their product.
 
-## Features
+## Customer Website Features
+
+- Homepage, weekly sales flyer, and email subscription
+
+<img src="/images/peppers-homepage-flyer.gif" alt="view the homepage, weekly sales flyer, and email subscription">
+
+- Catering items and events
+
+<img src="/images/peppers-catering-events.gif" alt="view catering items and events">
+
+- Apply for a position on the customer website and manage applications in the admin portal
+
+<img src="/images/peppers-apply.gif" alt="apply for a position and manage positions">
+
+## Admin Portal Features
 
 - Upload the weekly sales flyer in the admin portal, and see it immediately reflected on the customer website
 
@@ -23,7 +37,3 @@ By using a thoughtful collection of AWS products and a NoSQL database, Peppers p
 - Change the display order of content in the admi nportal, immediately reflected on the customer website
 
 <img src="/images/peppers-update-display-order.gif" alt="change order of website content">
-
-- Apply for a position on the customer website and manage applications in the admin portal
-
-<img src="/images/peppers-apply.gif" alt="apply for a position and manage positions">
